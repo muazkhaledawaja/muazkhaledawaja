@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Moath</h1>
- ![user (2)](https://user-images.githubusercontent.com/31365698/215765882-1392397a-5d35-48ef-8cb5-52199d99d7f0.gif)
+ 
+
 
 <h3 align="center">A passionate junior backend developer from Palestine</h3>
 
 - 🌱 I’m currently learning **NestJs & NodeJs**
 
+![user (2)](https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
