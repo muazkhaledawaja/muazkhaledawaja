@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moath</h1>
-![user (2)](https://user-images.githubusercontent.com/31365698/215765760-c957e5ff-cc4e-4edf-bf92-5f6ec2420c31.gif)
+ ![user (2)](https://user-images.githubusercontent.com/31365698/215765882-1392397a-5d35-48ef-8cb5-52199d99d7f0.gif)
+
 <h3 align="center">A passionate junior backend developer from Palestine</h3>
 
 - 🌱 I’m currently learning **NestJs & NodeJs**
