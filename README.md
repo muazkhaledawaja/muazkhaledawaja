@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/mmt90_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmt90_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muaz awaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muaz awaja" height="30" width="40" /></a>
-<a href="https://fb.com/moath awaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Moath Awaja" height="30" width="40" /></a>
+<a href="https://fb.com/moath awaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muaz2016khaled" height="30" width="40" /></a>
 <a href="https://instagram.com/muaz_khaled90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muaz_khaled90" height="30" width="40" /></a>
 </p>
 
