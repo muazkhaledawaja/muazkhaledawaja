@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **NestJs & NodeJs**
  
 
-- 📫 How to reach me **mkaawaj5000@gmail.com**
+- 📫 How to reach me **moathawaja20@gmail.com**
  
 
 ![user (2)](https://user-images.githubusercontent.com/31365698/215766037-54403913-12c6-48a2-a58a-6090e1ea9f19.gif)
