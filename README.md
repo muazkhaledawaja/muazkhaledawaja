@@ -2,7 +2,7 @@
  
 
 
-<h3 align="center">A passionate junior backend developer from Palestine</h3>
+<h3 align="center">A passionate backend developer from Palestine</h3>
 
 - 🌱 I’m currently learning **NestJs & NodeJs**
  
